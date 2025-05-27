@@ -1,0 +1,4 @@
+﻿ID	Label	Entity Type	Individual Role	Property Assertions
+ID	LABEL	TYPE	TI 'has role' some %	I part_of
+ex:ind-1	Individual 1	Class_1	Role_Class_1	Individual 2
+ex:ind-2	Individual 2	Class_1	Role_Class 2	Individual 1

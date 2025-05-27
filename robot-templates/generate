@@ -1,0 +1,6 @@
+#!/usr/bin/sh
+robot template \
+  --prefix "ex: http://example.com/" \
+  --input in.owl \
+  --template template.tsv \
+  --output output.owl
